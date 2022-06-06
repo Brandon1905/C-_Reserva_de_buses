@@ -1,0 +1,40 @@
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe.config
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.pdb
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Form1.resources
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Properties.Resources.resources
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.exe
+C:\Users\Brandon\Desktop\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.pdb
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe.config
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.pdb
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csprojAssemblyReference.cache
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Form1.resources
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Properties.Resources.resources
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.GenerateResource.cache
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.CoreCompileInputs.cache
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.exe
+C:\Users\GOMEZ\Dropbox\Examen #2 P1\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.pdb
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe.config
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.pdb
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Form1.resources
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.exe
+C:\Users\Brandon\Dropbox\Examen #2 P1\BejaranoAxel-UgaldeBrandon_Proyecto#2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.pdb
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe.config
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.exe
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\bin\Debug\reserva de bus.pdb
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Form1.resources
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva_de_bus.Properties.Resources.resources
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.GenerateResource.cache
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.exe
+C:\Users\Brandon\Documents\BRANDON\universidad\2018\verano #3,2018\programacion l\programaciones\Proyecto #2\reserva de bus\reserva de bus\obj\Debug\reserva de bus.pdb
